@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Instagram Reels Blocker",
+    "version": "1.0",
+    "description": "Blocks Instagram Reels.",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.instagram.com/*"
+            ],
+            "js": [
+                "index.js"
+            ]
+        }
+    ]
+}
