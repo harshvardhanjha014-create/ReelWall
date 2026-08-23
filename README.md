@@ -90,11 +90,6 @@ The content script is therefore available throughout the Instagram website.
 
 The extension should display the blocking overlay.
 
-## 📸 Project Preview
-
-Add a screenshot of the extension here:
-
-[ Instagram Reels Blocker Screenshot ]
 
 ## 🧠 What I Learned
 
